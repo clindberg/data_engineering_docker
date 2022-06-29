@@ -1,7 +1,7 @@
 # Docker for Data engineers
 
-Step : 1 Create Docker Image docker build -t dataengineer .
-Step : 2 docker-compose up
+1. Create Docker Image docker build -t dataengineer .
+2. docker-compose up
 
 ### Login to the airflow web UI from your browser.(http://localhost:8080/)
 
