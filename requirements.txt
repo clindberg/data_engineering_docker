@@ -1,0 +1,12 @@
+pandas
+celery
+datetime
+selenium
+mlflow
+scikit-learn
+sqlalchemy
+cx_oracle
+apache-airflow-providers-oracle
+pymongo
+boto3
+psycopg
