@@ -11,3 +11,4 @@ pymongo
 boto3
 psycopg
 xmltodict
+kaggle
